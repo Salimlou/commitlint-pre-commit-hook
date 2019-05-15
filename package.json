@@ -10,7 +10,7 @@
     "commitlint": "./node_modules/@commitlint/cli/lib/cli.js"
   },
   "commitlint":{
-    extends: ["@commitlint/config-conventional"]
+    "extends": ["@commitlint/config-conventional"]
   },
   "dependencies": {
     "@commitlint/cli": "^7.0.0"
